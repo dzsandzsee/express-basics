@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "name": "Gipsz Jakab",
+        "age": 23
+    },
+    {
+        "id": 12,
+        "name": "Cool Code",
+        "age": 40
+    },
+    {
+        "id": 221,
+        "name": "Kémény Béla",
+        "age": 19
+    },
+    {
+        "id": 345,
+        "name": "Király Géza",
+        "age": 58
+    }
+]
